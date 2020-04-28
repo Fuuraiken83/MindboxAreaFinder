@@ -5,9 +5,12 @@ using FiguresArea.Exeptions;
 
 namespace FiguresArea.Test
 {
-
+    /// <summary>
+    /// Тесты кругов
+    /// </summary>
     public class CircleTests
     {
+        //Правильный круг
         [Fact]
         public void CorrectCircle()
         {
@@ -18,6 +21,7 @@ namespace FiguresArea.Test
 
         }
 
+        //Неравильный круг
         [Theory]
         [InlineData(-1.0)]
         [InlineData(.0)]
