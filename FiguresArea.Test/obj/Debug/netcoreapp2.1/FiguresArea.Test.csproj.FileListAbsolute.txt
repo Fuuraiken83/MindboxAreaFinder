@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.Test.deps.json
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.Test.runtimeconfig.json
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.Test.runtimeconfig.dev.json
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.Test.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.Test.pdb
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\bin\Debug\netcoreapp2.1\FiguresArea.pdb
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.csproj.CopyComplete
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea.Test\obj\Debug\netcoreapp2.1\FiguresArea.Test.pdb

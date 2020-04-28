@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\FiguresArea\FiguresArea\bin\Debug\netcoreapp2.1\FiguresArea.deps.json
+C:\Users\User\source\repos\FiguresArea\FiguresArea\bin\Debug\netcoreapp2.1\FiguresArea.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea\bin\Debug\netcoreapp2.1\FiguresArea.pdb
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.AssemblyInfo.cs
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.dll
+C:\Users\User\source\repos\FiguresArea\FiguresArea\obj\Debug\netcoreapp2.1\FiguresArea.pdb
